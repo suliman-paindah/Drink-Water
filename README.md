@@ -1,1 +1,2 @@
 # Drink-Water
+Stay hydrated and healthy with our interactive Drink Water mini app! Built using HTML, CSS, and JavaScript, our app reminds you to hydrate throughout the day with a user-friendly interface. Track your water intake effortlessly and maintain optimal hydration levels, all while adhering to best coding practices for a seamless experience. Make hydration a priority with our intuitive and efficient Drink Water app
